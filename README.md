@@ -30,3 +30,18 @@ or directly from the command line with:
 ```
 jupyter nbconvert --to notebook --inplace --execute notebook_name.ipynb
 ```
+
+## "extractSiteData.ipynb"
+
+## other files
+
+### Geographies
+- herold_etal_eocene_topo_1x1.nc
+
+### Paleogeographic rotation files
+
+- LatLon_PD_55Ma_Herold2014.nc : 55Ma position in PD coordinates for Herold 2014 palaeogeography.
+  (this means that you have a present day map showing at which lat-lon a point would be at 55Ma)
+  
+- LatLon_55Ma_PD_Herold2014.nc : PD position in 55Ma coordinates for Herold 2014 palaeogeography.
+  (This is a 55Ma map showing from which lat-lon any point 'came' going back from present day)
