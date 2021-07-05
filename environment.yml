@@ -4,9 +4,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - basemap
+  - cartopy
   - cdo
-  - geopy
+  - cmocean
   - ipywidgets
   - jupyterlab
   - matplotlib
@@ -14,7 +14,7 @@ dependencies:
   - pandas
   - pip
   - scipy
-  - seaborn
   - xarray
   - pip:
     - netcdf4
+    - seaborn
