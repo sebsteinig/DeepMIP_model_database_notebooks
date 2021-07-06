@@ -18,3 +18,4 @@ dependencies:
   - pip:
     - netcdf4
     - seaborn
+    - voila
