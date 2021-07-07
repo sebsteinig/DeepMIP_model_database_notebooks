@@ -16,6 +16,7 @@ dependencies:
   - scipy
   - xarray
   - pip:
+    - itables
     - netcdf4
     - seaborn
     - voila
