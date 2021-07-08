@@ -1,4 +1,0 @@
-itables
-netcdf4
-seaborn
-voila
