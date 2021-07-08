@@ -1,8 +1,6 @@
 # Basic analysis of the DeepMIP model database
 
-<!-- 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/HadGEM3-ancils/HEAD)
- -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/DeepMIP_model_database_notebooks/HEAD)
 
 Collection of interactive jupyter notebooks to perform standard analysis and data 
 extraction for climate model output stored in the DeepMIP data base. Notebooks use 
