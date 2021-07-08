@@ -1,0 +1,24 @@
+name: python3
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - cartopy
+  - cdo
+  - cmocean
+  - geoviews=1.9.0
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python
+  - scipy
+  - xarray
+  - pip:
+    - itables
+    - netcdf4
+    - seaborn
+    - voila
