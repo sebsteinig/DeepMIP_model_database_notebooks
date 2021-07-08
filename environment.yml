@@ -7,7 +7,7 @@ dependencies:
   - cartopy
   - cdo
   - cmocean
-  - geoviews
+  - geoviews=1.9.0
   - ipywidgets
   - jupyterlab
   - matplotlib
