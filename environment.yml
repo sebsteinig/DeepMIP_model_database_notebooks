@@ -6,6 +6,7 @@ dependencies:
   - cartopy=0.19.0.post1
   - cdo=1.9.9
   - cmocean=2.0
+  - geoviews
   - ipywidgets=7.6.3
   - jupyterlab=3.0.16
   - matplotlib=3.4.2
