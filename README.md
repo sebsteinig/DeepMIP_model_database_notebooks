@@ -1,6 +1,6 @@
 # Basic analysis of the DeepMIP model database
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/DeepMIP_model_database_notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebsteinig/DeepMIP_model_database_notebooks/HEAD?filepath=panel_ExtractSiteData.ipynb)
 
 Collection of interactive jupyter notebooks to perform standard analysis and data 
 extraction for climate model output stored in the DeepMIP data base. Notebooks use 
@@ -29,8 +29,8 @@ or directly from the command line with:
 jupyter nbconvert --to notebook --inplace --execute notebook_name.ipynb
 ```
 
-## "extractSiteData.ipynb"
-This notebook finds and displays all available DeepMIP model data at a user-defined location.
+## "panel_ExtractSiteData.ipynb"
+This notebook/dashboard finds and displays all available DeepMIP model data at a user-defined location.
 
 ## other files
 
